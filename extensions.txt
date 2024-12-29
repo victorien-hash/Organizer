@@ -1,0 +1,4 @@
+Pictures : jpg, png, bmp, gif
+Doc : cs, php, cpp, py
+Code: odt, txt
+
