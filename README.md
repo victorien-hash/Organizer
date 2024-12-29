@@ -36,7 +36,7 @@ chmod +x organizer.sh
     - Provide the path to the folder you want to organize.
     - Provide the path to the extension.txt file.
 
-* Files will be copied to a new folder named Files_<user> inside the target folder and then sorted into subfolders.
+* Files will be copied to a new folder named Files_\<user\> inside the target folder and then sorted into subfolders.
 
 ## The info.txt File
 
